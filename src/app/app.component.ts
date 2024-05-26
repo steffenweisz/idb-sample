@@ -13,5 +13,5 @@ import { ItemsComponent } from "./items/items.component";
   styles: [],
 })
 export class AppComponent {
-  title = "idb-sample";
+  title = "IndexDB Sample";
 }

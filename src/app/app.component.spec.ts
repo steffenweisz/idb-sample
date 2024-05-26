@@ -14,10 +14,10 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have the 'idb-sample' title`, () => {
+  it(`should have the 'IndexDB Sample' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('idb-sample');
+    expect(app.title).toEqual("IndexDB Sample");
   });
 
   it('should render title', () => {
