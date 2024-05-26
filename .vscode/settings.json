@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["indexeddb"]
+  "cSpell.words": ["indexeddb"],
+  "compile-hero.disable-compile-files-on-did-save-code": false
 }
